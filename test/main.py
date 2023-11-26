@@ -11,7 +11,7 @@ import telebot              # pip install telebot
 from pytube import YouTube  # pip install pytube
 import io
 from PIL import Image       # pip install pillow
-import requests             # pip install request
+import requests as requests # pip install request
 import json
 # from pydub import AudioSegment
 
